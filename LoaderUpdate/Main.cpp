@@ -42,8 +42,8 @@ void displayLoginMenu() {
 void displayCredits() {
     // Function to display credits
     std::cout << "Credits:\n";
-    std::cout << "This program was developed by [Your Name] in collaboration with [Collaborator Name].\n";
-    std::cout << "For more information, please visit [Your Portfolio URL].\n";
+    std::cout << "This program was developed by van4er1337.\n";
+    std::cout << "For more information, please visit github.com/van4er1337.\n";
 }
 
 
